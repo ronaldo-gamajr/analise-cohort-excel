@@ -1,4 +1,9 @@
+![cover](assets/capa.jpg)
+
 # Relatório em Excel 
+
+## Análises
+
 - Análise de Cohort
 - Sales Retention
 - Receita Bruta Mensal (Gross Revenue)
