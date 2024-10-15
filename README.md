@@ -12,15 +12,15 @@
 - Construir e monitorar as principais métricas do negócio por meio de análises descritivas.
 
 ## Análise de Cohort
-[](cohort.png)
+[](C:\Users\ronal\dev\github\analise-cohort-excel\analise-cohort-excel\assets\cohort.png)
 ## Sales Retention
-[](sales-retention.png)
+[](C:\Users\ronal\dev\github\analise-cohort-excel\analise-cohort-excel\assets\sales-retention.png)
 ## Receita Bruta (Gross Revenue)
-[](receita-bruta.png)
+[](C:\Users\ronal\dev\github\analise-cohort-excel\analise-cohort-excel\assets\receita-bruta.png)
 ## Receita Vitalícia Acumulada (Life Time Value - LTV)
-[](lifetime-value.png)
+[](C:\Users\ronal\dev\github\analise-cohort-excel\analise-cohort-excel\assets\lifetime-value.png)
 ## Tícket Médio!
-[](ticket-medio.png)
+[](C:\Users\ronal\dev\github\analise-cohort-excel\analise-cohort-excel\assets\ticket-medio.png)
 
 ## Arquivo completo 
 Link: https://bit.ly/4f1mJFO
