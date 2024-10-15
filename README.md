@@ -24,3 +24,5 @@
 
 ## Arquivo completo 
 Link: https://bit.ly/4f1mJFO
+
+https://github.com/ronaldo-gamajr/analise-cohort-excel/tree/main/assets/sales-retention.png
