@@ -1,7 +1,5 @@
 ![cover](assets/capa.jpg)
 
-# Relatório em Excel 
-
 ## Análises
 
 - Análise de Cohort
